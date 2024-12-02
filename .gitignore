@@ -5,3 +5,5 @@ env/
 .env
 .google-adc
 venv/
+.venv/
+.env
